@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2607.23341)
 [![Paper](https://img.shields.io/badge/Paper-Springer%20Nature-blue)](https://link.springer.com/chapter/10.1007/978-3-032-37232-1_13)
+[![Paper](https://img.shields.io/badge/Paper-ECCV-blue)](https://eccv.ecva.net/virtual/2026/poster/3416)
 
 ## Official implementation of **“Stabilizing Deep Reconstruction Operators with Contractive Anchoring”**, accepted at **European Conference on Computer Vision (ECCV), 2026**.
 
