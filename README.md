@@ -1,10 +1,18 @@
 # COSTA
 
-**Stabilizing Deep Reconstruction Operators with Contractive Anchoring** — ECCV 2026
-Arghya Sinha, Trishit Mukherjee, Kunal N. Chaudhury · Indian Institute of Science, Bangalore
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2607.23341)
+[![Paper](https://img.shields.io/badge/Paper-Springer%20Nature-blue)](https://link.springer.com/chapter/10.1007/978-3-032-37232-1_13)
 
-📦 **Repo:** https://github.com/trishitmg/costa &nbsp;·&nbsp; 📄 Paper & arXiv links coming soon.
-**Status:** deblurring and super-resolution demos are live; more solvers, denoisers, and reproduction scripts are being added.
+## Official implementation of **“Stabilizing Deep Reconstruction Operators with Contractive Anchoring”**, accepted at **European Conference on Computer Vision (ECCV), 2026**.
+
+**Authors:**  
+[Arghya Sinha](https://arghyasinha.github.io) · 
+[Trishit Mukherjee](https://www.linkedin.com/in/trishit360/) · 
+[Kunal N. Chaudhury](https://sites.google.com/site/kunalnchaudhury/home)
+
+
+![ECCV 2026 Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202026/3416.png?t=1788636708.2982547)
+
 
 ---
 
